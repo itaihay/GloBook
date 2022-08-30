@@ -1,7 +1,11 @@
 # GloBook
 A research about Books and authors connecting in the new world of globalization
 
-## Introduction
+Shvat Messica	shvatm@post.bgu.ac.il
+Itai Hay	hayitai@post.bug.ac.il
+
+Introduction
+
 The world of literature has undergone a major transformation in recent years, with the uprising of new ways of communicating with authors via social media, new methods of reading such as e-readers and smartphones, with everything more accessible through the internet. Even libraries are becoming more obsolete for casual readers that can get their hands on books with monthly subscriptions.
 
 The global transformation, called “globalization” by many experts, “can capture (...) the present ongoing large-scale growth of transplanetary (...) [and] connectivity” (Scholte, Jan Aart 2008, 1471-1502).
@@ -10,7 +14,7 @@ With globalization affecting all aspects of life, we wished to look into the con
 Using multiple datasets we gathered and combined we tackled said questions and tried, using multiple methods of visualization, to showcase the true nature of globalization, with graphs showcasing how authors from different countries influence each other, and how the author’s interaction with their fans can contribute to their commercial success.
 
 
-## Summary
+Summary
 After dissecting, combining and analyzing our data, we gathered some interesting findings about books, authors and fans.
 Firstly, we did see that the time and location of publication has a major impact on a books’ popularity, with certain periods and locations outperforming others.
 
