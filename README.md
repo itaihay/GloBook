@@ -1,8 +1,7 @@
 # GloBook
 A research about Books and authors connecting in the new world of globalization
 
-Shvat Messica	shvatm@post.bgu.ac.il
-Itai Hay	hayitai@post.bug.ac.il
+Shvat Messica	shvatm@post.bgu.ac.il and Itai Hay	hayitai@post.bug.ac.il
 
 Introduction
 
